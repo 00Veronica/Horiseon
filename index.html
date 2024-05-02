@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>Horiseon</title>
-<!--website title added-->    
+    <title>Horiseon | Search Engine Optimization Agency</title>
+<!--website title added with description-->    
 </head>
 
 <body>
-<!--Header-->    
+<!--Header Section-->    
 <!--Removed div element and changed to header element-->
     <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
@@ -28,15 +28,16 @@
             </ul>
         </nav>
     </header>
-<!--Main-->
+
+<!--Main Section-->
     <main>
-<!--Background image-->
+<!--Hero background image-->
 <!--img source and alt attribute added-->        
-        <div class="hero">
+        <section class="hero">
             <img src="./assets/images/digital-marketing-meeting.jpg" alt="four individuals grouped around a conference table for marketing meeting."/>
-        </div>
+        </section>
 <!--use of different semantic elements such as section and article-->
-<!--added alt attributes to all visible img links-->
+<!--added alt attributes to all visible image links-->
         <section class="content">
             <article id="search-engine-optimization" class="search-engine-optimization">
                 <img src="./assets/images/search-engine-optimization.jpg" alt="a laptop, cup of coffee, and pencil holder with a notebook on SEO notes sit on a table." class="float-left" />
@@ -60,37 +61,44 @@
                 </p>
             </article>
         </section>
-    </main>
-<!--alt attributes added-->
-    <div class="benefits">
-        <div class="benefit-lead">
-            <h3>Lead Generation</h3>
-            <img src="./assets/images/lead-generation.png" alt="a mechanical gear generating into currency." />
-            <p>
+    
+
+<!--Aside Section within Main-->    
+<!--alt attributes added, section and aside elements replace the use of div-->
+        <section class="benefits">
+            <aside class="benefit-lead">
+                <h3>Lead Generation</h3>
+                <img src="./assets/images/lead-generation.png" alt="a mechanical gear generating into currency." />
+                <p>
                 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
-            </p>
-        </div>
-        <div class="benefit-brand">
-            <h3>Brand Awareness</h3>
-            <img src="./assets/images/brand-awareness.png" alt="lightbulb with a shirt and tie sending signal." />
-            <p>
+                </p>
+            </aside>
+            <aside class="benefit-brand">
+                <h3>Brand Awareness</h3>
+                <img src="./assets/images/brand-awareness.png" alt="a lightbulb with a shirt and tie sending signal." />
+                <p>
                 Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
-            </p>
-        </div>
-        <div class="benefit-cost">
-            <h3>Cost Management</h3>
-            <img src="./assets/images/cost-management.png" alt="a gear positioned behind three currency symbols." />
-            <p>
+                </p>
+            </aside>
+            <aside class="benefit-cost">
+                <h3>Cost Management</h3>
+                <img src="./assets/images/cost-management.png" alt="a gear positioned behind three currency symbols." />
+                <p>
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
-            </p>
-        </div>
-    </div>
+                </p>
+            </aside>
+        </section>
+    </main>
+
+
     <div class="footer">
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>
             &copy; 2023 Horiseon Social Solution Services, Inc.
         </p>
     </div>
+
+
 </body>
 
 </html>

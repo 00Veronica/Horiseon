@@ -53,13 +53,17 @@ header nav ul li {
 
 
 .hero img {
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-color: #cccccc;
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
 }
+/*hero image appeared squished, the use of object-fit over the use of background-size seemed to fix that */
+/*background-color added in container if image is not viewable*/
 
 .float-left {
     float: left;
