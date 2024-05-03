@@ -8,4 +8,5 @@ Module Challenge: A marketing agency wants their existing website to be more acc
 - Heading elements fall in sequential order
 - Title element is concise and descriptive
 # Screenshot
-![screenshot of webpage](image-1.png)
+![SCREENSHOT TOP](image-2.png)
+![SCREENSHOT BOTTOM](image-1.png)
