@@ -12,3 +12,5 @@ Module Challenge: A marketing agency wants their existing website to be more acc
 ![SCREENSHOT BOTTOM](image-1.png)
 # Deployed Webpage URL
 [webpage link](http://127.0.0.1:5500)
+# Github Repository URL
+[Horiseon Challenge](https://github.com/00Veronica/Horiseon.git)
