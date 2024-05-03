@@ -7,3 +7,5 @@ Module Challenge: A marketing agency wants their existing website to be more acc
 - Image elements include accessible alt attributes
 - Heading elements fall in sequential order
 - Title element is concise and descriptive
+# Screenshot
+![screenshot of webpage](image-1.png)

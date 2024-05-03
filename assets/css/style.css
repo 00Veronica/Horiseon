@@ -50,6 +50,8 @@ p {
     font-size: 16px;
 }
 
+/*background image*/
+
 .hero img {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-color: #cccccc;
@@ -81,14 +83,16 @@ p {
 .footer {
     padding: 30px;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}    
+/*I could not get the footer to center align*/
 
 .footer h2 {
     font-size: 20px;
+    justify-content: center;
 }
-
+/*main section styling*/
 
 .services {
     margin-bottom: 20px;
@@ -106,6 +110,8 @@ p {
 .services img {
     max-height: 200px;
 }
+
+/*aside section*/
 
 .benefits {
     margin-right: 20px;
