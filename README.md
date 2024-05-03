@@ -16,6 +16,9 @@ Module Challenge: A marketing agency wants their existing website to be more acc
 [Horiseon Challenge](https://github.com/00Veronica/Horiseon.git)
 # Resouces
 [MDN | HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+<br>
 [MDN | CSS Cascading Style Sheets - main reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<br>
 [MDN | HTML: a good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+<br>
 [MDN | CSS: specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
