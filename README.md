@@ -14,3 +14,8 @@ Module Challenge: A marketing agency wants their existing website to be more acc
 [webpage link](http://127.0.0.1:5500)
 # Github Repository URL
 [Horiseon Challenge](https://github.com/00Veronica/Horiseon.git)
+# Resouces
+[MDN | HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+[MDN | CSS Cascading Style Sheets - main reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[MDN | HTML: a good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+[MDN | CSS: specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
